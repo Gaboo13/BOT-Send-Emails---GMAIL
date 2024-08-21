@@ -6,7 +6,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.mime.image import MIMEImage
 
-name_account = "Asesorias MJM"
+name_account = "Display Name "
 email_account = "xxxxxxx@gmail.com"
 password_account = "xxxx xxxx xxxx xxxx" #pass of aplication
 
